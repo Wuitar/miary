@@ -62,3 +62,12 @@ a:hover {
 .back {
     margin-top: 60px;
 }
+
+.subtitle {
+    margin-top: -16px;
+    margin-bottom: 36px;
+    color: #777;
+    font-size: 18px;
+    font-style: italic;
+    text-indent: 0;
+}
